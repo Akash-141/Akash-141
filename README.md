@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/Akash-141/Akash-141/blob/main/coding.gif?raw=true"  />
+  <img width="1920" src="https://github.com/Akash-141/Akash-141/blob/main/coding.gif?raw=true"  />
 </div>
 
 ###
